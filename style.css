@@ -172,13 +172,15 @@ img{
                 
             }
 
-            .ctn{
-                display: flex;
-                justify-content: center; 
-                align-items: center; 
-                height: auto; 
-                padding: 10px;
+            button{
+                margin-bottom: 0px;
+                width: 60vw;
+                padding: 10px 5px;
+            
             }
+        
+
+            
             
 
         
