@@ -67,10 +67,10 @@ img{
 }
 
   .text-wrapper {
-    word-wrap: break-word; /* Allows long words to break and wrap onto the next line */
-    white-space: normal; /* Allows text to wrap naturally */
-    width: 400px; /* Adjust the width to control the wrapping behavior */
-    overflow: hidden; /* Hide overflow text if it doesn't fit within the defined width */
+    word-wrap: break-word; 
+    white-space: normal; 
+    width: 400px; 
+    overflow: hidden; 
     margin-top: 50px;
     font-weight: bold;
     font-size: x-large;
@@ -149,7 +149,16 @@ img{
             margin-bottom: 0px;
             width: 60vw;
             padding: 10px 5px;
+            margin: 40px;
         
+        }
+
+        .reviews{
+            margin: 40px;
+        }
+
+        .rate{
+            margin-left: 40px;
         }
     
     
