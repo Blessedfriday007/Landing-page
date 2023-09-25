@@ -127,7 +127,9 @@ body {
   a{
     text-decoration: none;
   }
-
+a:hover span{
+    color: antiquewhite;
+}
   p{
     text-transform:capitalize;
   }
