@@ -63,11 +63,7 @@ span{
     
 }
 
-img{
-    float: right;
-    clear:right;
-    
-}
+
 
   .text-wrapper {
     word-wrap: break-word; /* Allows long words to break and wrap onto the next line */
