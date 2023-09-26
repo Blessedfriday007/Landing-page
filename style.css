@@ -5,6 +5,7 @@
     font-family: 'Fira Sans Extra Condensed', sans-serif;
     background-color: #333;
     color: white;
+    text-decoration: none;
 }
 
 section{
@@ -20,6 +21,8 @@ section{
     right: 0;
     
 }
+
+
 
 #menubar{
     
@@ -67,7 +70,7 @@ img{
 }
 
   .text-wrapper {
-    word-wrap: break-word; 
+    word-wrap: break-word; /* Allows long words to break and wrap onto the next line */
     white-space: normal; 
     width: 400px; 
     overflow: hidden; 
@@ -97,9 +100,11 @@ img{
     width:220px;
     transition: ease .20s;
     cursor:pointer ;
+    text-decoration: none;
     
-    
+
 }
+
 .rate{
     color: #d3af37;
     font-size: 20px;
@@ -126,6 +131,7 @@ img{
     align-items: center; 
     height: auto; 
     padding: 10px;
+    text-decoration: none;
 }
 
 
@@ -150,6 +156,7 @@ img{
             width: 60vw;
             padding: 10px 5px;
             margin: 40px;
+            
         
         }
 
