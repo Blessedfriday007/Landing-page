@@ -188,6 +188,30 @@ img{
                 
             }
 
+            .container{
+                display: inline-block;
+                max-width: 101px;
+                padding: 0;
+                margin: 0;
+                position: relative;
+                
+            }
+
+            .container  {
+                padding: 10px; /* Adjust this value to add space between sidebar items */
+                text-align: center;
+            }
+            }
+
+            .contents{
+                margin:auto;
+                margin: 20px;
+                text-transform: uppercase;
+            
+    
+                }
+            
+
             button{
                 margin-bottom: 0px;
                 width: 60vw;
