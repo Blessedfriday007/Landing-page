@@ -1,5 +1,5 @@
 body {  
-    background-color: #333;  
+    background-color: black;  
     font-family: 'Fira Sans Extra Condensed', sans-serif; 
    }  
    .login {  
@@ -71,7 +71,7 @@ body {
     margin-top: 10px;  
     margin-left: -5px;  
     border-radius: 5px;  
-    background-color: #f45b69;  
+    background-color: black;  
     -webkit-transition: background-color 300ms;  
     -moz-transition: background-color 300ms;  
     transition: background-color 300ms;  
