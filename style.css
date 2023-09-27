@@ -3,7 +3,7 @@
     margin:0;
     box-sizing: border-box;
     font-family: 'Fira Sans Extra Condensed', sans-serif;
-    background-color: #333;
+    background-color: black;
     color: white;
     text-decoration: none;
 }
@@ -162,6 +162,7 @@ span{
 
         .rate{
             margin-left: 40px;
+            
         }
     
     
@@ -170,7 +171,7 @@ span{
                 
                 height: auto;
                 max-width: 80%;
-                position:static;
+                position:inherit;
 
             }
 
@@ -189,6 +190,7 @@ span{
                 max-width: 101px;
                 padding: 0;
                 margin: 0;
+                
             
                 
             }
