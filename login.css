@@ -71,7 +71,7 @@ body {
     margin-top: 10px;  
     margin-left: -5px;  
     border-radius: 5px;  
-    background-color: black;  
+    background-color: purple;  
     -webkit-transition: background-color 300ms;  
     -moz-transition: background-color 300ms;  
     transition: background-color 300ms;  
@@ -125,8 +125,9 @@ body {
    }
 
    .center-link{
-    font-size: x-large;
+    font-size: 16px;
     color: red;
+    text-transform: capitalize;
 
    }
 
