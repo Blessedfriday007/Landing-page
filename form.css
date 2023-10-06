@@ -132,6 +132,8 @@ a:hover span{
 }
   p{
     text-transform:capitalize;
+    color:white;
+    margin-left: 20%;
   }
 
   span{
