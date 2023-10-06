@@ -128,7 +128,7 @@ body {
     text-decoration: none;
   }
 a:hover span{
-    color: antiquewhite;
+    color: purple;
 }
   p{
     text-transform:capitalize;
