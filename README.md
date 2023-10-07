@@ -14,6 +14,4 @@ A working mobile menu (or sidebar)
 
 ```
 
-### Optional goals
 
-Make the login and signup page look functional, simulating a login process (let your imagination run wild, be as creative as you can possibly can).
