@@ -178,6 +178,7 @@ span{
                 max-width: 100%;
                 position:inherit;
                 height: 150vw;
+                display: block;
 
             }
 
