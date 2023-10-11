@@ -4,13 +4,13 @@ For your frontend project, build a simple functional website page, this website 
 
 ```
 
-A responsive landing page
+A responsive landing page.
 
-A registration page with form
+A registration page with form.
 
-A login page with forms
+A login page with forms.
 
-A working mobile menu (or sidebar)
+A working mobile menu (or sidebar).
 
 ```
 
