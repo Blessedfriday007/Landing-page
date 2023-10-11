@@ -146,11 +146,11 @@ a:hover span{
     max-width: 450px;
   }
 
-  @media only screen and (max-width: 800px)  {
+  @media only screen and (max-width: 600px)  {
      img{
         
         height: 130vw;
-        max-width: 70%;
+        max-width: 60%;
         position:static;
 
       
