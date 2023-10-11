@@ -121,7 +121,7 @@ body {
     font-size: 12px;  
    }  
 
-   h1{
+   h3{
     text-align: center;
    }
 
@@ -134,4 +134,8 @@ body {
 
    a:hover{
     color: black;
+   }
+
+   span{
+    color: blue;
    }
