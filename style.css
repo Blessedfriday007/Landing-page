@@ -175,8 +175,9 @@ span{
             .contact-img img{
                 
                 height: auto;
-                max-width: 80%;
+                max-width: 100%;
                 position:inherit;
+                height: 150vw;
 
             }
 
@@ -221,6 +222,8 @@ span{
                 padding: 10px 5px;
             
             }
+
+        
     
                 
             }
