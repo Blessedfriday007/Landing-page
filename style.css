@@ -20,6 +20,7 @@ section{
     top: 0; 
     right: 0;
     
+    
 }
 
 
@@ -179,8 +180,13 @@ span{
                 position:inherit;
                 height: 150vw;
                 display: block;
+                padding:auto;
+                
+                
 
             }
+
+
 
             .reviewss{
                 display: flex; 
