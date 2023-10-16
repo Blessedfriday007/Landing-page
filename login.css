@@ -137,5 +137,17 @@ body {
    }
 
    span{
-    color: blue;
+    color: greenyellow;
    }
+
+   
+   @media only screen and (max-width: 600px)  {
+
+   
+    .login{
+
+        max-width: 350px;
+
+    }
+    
+}
