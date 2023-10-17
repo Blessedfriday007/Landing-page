@@ -127,13 +127,13 @@ body {
 
    .center-link{
     font-size: 16px;
-    color: green;
+    color: #333;
     text-transform: capitalize;
 
    }
 
    a:hover{
-    color: black;
+    color: orangered;
    }
 
    span{
