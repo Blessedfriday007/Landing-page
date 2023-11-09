@@ -1,6 +1,6 @@
 ## Frontend Multi-page website
 
-For your frontend project, build a simple functional website page, this website should include the following pages, and must route properly
+ Build a simple functional website page, this website should include the following pages, and must route properly
 
 ```
 
